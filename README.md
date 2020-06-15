@@ -1,3 +1,2 @@
 # Strategy
-Patrón Estrategia
-Ejemplo del patrón de comportamiento 
+Ejemplo del patrón de comportamiento estrategia
